@@ -1,0 +1,46 @@
+    1  ls
+    2  whoami
+    3  pwd
+    4  man man
+    5  ls
+    6  cd repogit
+    7  ls
+    8  ls -la
+    9  cd ..
+   10  ls
+   11  cat README
+   12  git clone https://github.com/ernestomontoya/montoya_vagrant.git
+   13  ls
+   14  cd montoya_vagrant/
+   15  ls
+   16  history
+   17  history > hiltorial.txt
+   18  ls
+   19  cat hiltorial.txt 
+   20  git status
+   21  git add .
+   22  git status
+   23  git commit -m "MI PRIMER COMMIT"
+   24  git config --global user.name "ernestomontoya"
+   25  git commit -m "MI PRIMER COMMIT"
+   26  git push
+   27  cd ..
+   28  exit
+   29  ls
+   30  ls -la
+   31  ssh-keygen -t ed25519
+   32  ls
+   33  ls -la
+   34  cd .ssh
+   35  ls
+   36  cat id_ed25519.pub
+   37  cd ..
+   38  ls
+   39  cd repogit
+   40  ls
+   41  git clone git@github.com:ernestomontoya/montoya_vagrant.git
+   42  ls
+   43  cd montoya_vagrant/
+   44  ls
+   45  history
+   46  history > historial.txt
